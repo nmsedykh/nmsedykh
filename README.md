@@ -26,6 +26,14 @@
 - PostgreSQL, MySQL, MongoDB, Redis
 - RabbitMQ, Apache Kafka
 
+### 🤖 Machine Learning & AI
+- PyTorch, TensorFlow, Scikit-learn, MLflow
+- LLMs (prompt engineering, fine-tuning), Transformers, Hugging Face
+- Embeddings, RAG, Vector Search
+- CNNs, Tabular Models (CatBoost, XGBoost)
+- Time Series (LSTM, Prophet), Feature Engineering
+- Model Serving & Optimization, Inference Pipelines
+
 ### ⚙️ DevOps & Infrastructure
 - Docker, Kubernetes
 - AWS (EC2, S3, Lambda, IAM)
@@ -35,14 +43,6 @@
 ### 🧪 Testing & CI/CD
 - Pytest, unittest, Hypothesis
 - Git, GitHub, GitLab CI/CD, CircleCI
-
-### 🤖 Machine Learning & AI
-- PyTorch, TensorFlow, Scikit-learn, MLflow
-- LLMs (prompt engineering, fine-tuning), Transformers, Hugging Face
-- Embeddings, RAG, Vector Search
-- CNNs, Tabular Models (CatBoost, XGBoost)
-- Time Series (LSTM, Prophet), Feature Engineering
-- Model Serving & Optimization, Inference Pipelines
 
 ### 🧰 Other Tools & Topics
 - REST, OpenAPI, Swagger, OAuth2, JWT, OpenID Connect
